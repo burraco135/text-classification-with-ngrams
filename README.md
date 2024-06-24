@@ -1,1 +1,1 @@
-# text-classification-with-gan
+# Text classification with GAN
