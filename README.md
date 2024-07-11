@@ -1,1 +1,1 @@
-# Text classification with GAN
+# Text classification with ngrams
